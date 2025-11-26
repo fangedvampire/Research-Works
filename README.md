@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @fangedvampire
-- 👀 I’m interested in ... Python, Machine Learning, Data Analysis
-- 🌱 I’m currently learning ...Neural Networks
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ... Machine Learning, Data Science, LLMs and Prompt Engineering. 
+- 🌱 I’m currently learning ...Multimodal AI
 - 😄 Pronouns: ... She/her
 - ⚡ Fun fact: ...
 
